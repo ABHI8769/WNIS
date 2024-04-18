@@ -1,0 +1,116 @@
+body {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    transition: background-color 0.5s ease, color 0.5s ease;
+  }
+  
+  nav {
+    background-color: #000000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #ccc;
+  }
+  
+  #wrapper {
+    background-color: #0a0101;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: #EC0000;
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #fff;
+  }
+  hr{
+    border: none;
+  height: 1px;
+  color: #fff;
+  background-color: #fff;
+  width: 50%;
+  margin: 20px auto;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+    background-color: #444;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .guessField {
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+  }
+  
+  .guessSubmit {
+    padding: 0.5rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    background-color: #EC0000;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .guessSubmit:hover {
+    background-color: #FF0000;
+    color: #fff;
+  }
+  
+  .resultParas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .guesses {
+    margin-bottom: 1rem;
+    color: #fff;
+  }
+  
+  .lastResult {
+    margin-bottom: 1rem;
+    color: #EC0000;
+  }
+  
+  .lowOrHi {
+    margin-top: 1rem;
+    color: #fff;
+  }
+  .social-links img {
+    width: 24px;
+    height: 24px;
+  }
