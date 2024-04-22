@@ -1,7 +1,3 @@
-Certainly! Here's a README file for the "WNIS - The Guess Game" project:
-
----
-
 # WNIS - The Guess Game
 
 Welcome to "WNIS - The Guess Game"! This is a number guessing game where the player tries to guess a random number between 1 and 100. The player has 10 attempts to guess the correct number. This game is implemented using HTML, CSS, and JavaScript.
