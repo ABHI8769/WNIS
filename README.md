@@ -22,7 +22,7 @@ Welcome to "WNIS - The Guess Game"! This is a number guessing game where the pla
 - JavaScript
 
 ## Screenshots
-![WNIS - The Guess Game Screenshot](screenshots/game_screenshot.png)
+![WNIS - The Guess Game Screenshot](WNIS.png)
 
 ## Developer
 - **Abhijeet Goswami**
