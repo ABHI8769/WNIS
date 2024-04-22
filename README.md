@@ -3,7 +3,7 @@
 Welcome to "WNIS - The Guess Game"! This is a number guessing game where the player tries to guess a random number between 1 and 100. The player has 10 attempts to guess the correct number. This game is implemented using HTML, CSS, and JavaScript.
 
 ## How to Play
-1. Open the https://wnis.vercel.app/ file in your browser.
+1. Open the https://wnis.vercel.app/ link in any of your browser.
 2. You will see a form with an input field to guess a number and a "Submit Guess" button.
 3. Enter your guess in the input field and click the "Submit Guess" button.
 4. The game will give you feedback on whether your guess is too high, too low, or if you guessed the number correctly.
